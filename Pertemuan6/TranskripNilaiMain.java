@@ -21,17 +21,13 @@ public class TranskripNilaiMain {
 	        transkrip.hitungIPK(); 
 	        transkrip.display(); 
 	         
-	        // Tambahkan KHS lain 
 	        transkrip.addKHS(khs1); 
-	 
-	        // Hitung IPK sebelum menampilkan 
+	
 	        transkrip.hitungIPK(); 
 	        transkrip.display(); 
 	         
-	        // Tambahkan KHS lain 
 	        transkrip.addKHS(khs2); 
-	 
-	        // Hitung IPK sebelum menampilkan 
+	
 	        transkrip.hitungIPK(); 
 	        transkrip.display(); 
 		} 
